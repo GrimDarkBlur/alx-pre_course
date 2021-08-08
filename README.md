@@ -1,1 +1,1 @@
-# alx readme
+echo "Alx readme"
